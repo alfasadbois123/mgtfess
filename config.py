@@ -1,0 +1,5 @@
+consumer_key = "GrV6fKPuX7eklh4ClluYDd0OT"
+consumer_secret = "xRQAsAF7oTHwgwqMxud7GmOQXjJmHnpcsUiJKYsLeFYQCtVRaP"
+access_token = "92711614-0fDE8k7EwzLQji5HBcoqLjZrCTIqZemgK73JiWmXM"
+access_token_secret = "qGya2YPfLYUEYos7GOGXsrxgLtQn9QejtV3Tps3s7Z7XI"
+keywords = "mgt" or "Mgt" or "MGT"
