@@ -19,6 +19,9 @@ def debug_cuy(text):
     print(pytz.timezone("Asia/Jakarta").localize(datetime.now()).strftime("%H:%M:%S") + ' => ' + str(text))
 
 
+def delete_message(message_id):
+    debug_cuy("👋 menghapus pesan dengan id " + str(message_id))
+    api.destroy_direct_message(message_id)
 
 
 def make_tweet(text):
